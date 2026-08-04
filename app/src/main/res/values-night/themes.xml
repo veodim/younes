@@ -1,4 +1,4 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Base.Theme.Tutoriel10_Pokemon" parent="Theme.Material3.DayNight.DarkActionBar">
+    <style name="Base.Theme.Tutoriel10_Pokemon" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
     </style>
 </resources>

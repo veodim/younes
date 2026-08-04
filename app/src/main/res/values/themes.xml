@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Thème avec barre d'action pour le menu d'options -->
-    <style name="Base.Theme.Tutoriel10_Pokemon" parent="Theme.Material3.DayNight.DarkActionBar">
+    <!-- Theme with action bar for the options menu -->
+    <style name="Base.Theme.Tutoriel10_Pokemon" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
     </style>
 
     <style name="Theme.Tutoriel10_Pokemon" parent="Base.Theme.Tutoriel10_Pokemon" />
